@@ -1,0 +1,363 @@
+TCutomActionSheet
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Intermediates/PrecompiledHeaders/CutomActionSheet-Prefix-dkzoxcbweufypxduvzhxdfirypgx/CutomActionSheet-Prefix.pch.pch CutomActionSheet/CutomActionSheet-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/CutomActionSheet.build/Debug-iphonesimulator/CutomActionSheet.build/Objects-normal/i386/ViewController.o /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/CutomActionSheet/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/CutomActionSheet.build/Debug-iphonesimulator/CutomActionSheet.build/Objects-normal/i386/AppDelegate.o /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/CutomActionSheet/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/CutomActionSheet.build/Debug-iphonesimulator/CutomActionSheet.build/Objects-normal/i386/main.o /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/CutomActionSheet/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Products/Debug-iphonesimulator/CutomActionSheet.app/CutomActionSheet normal i386
+cCopyStringsFile /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Products/Debug-iphonesimulator/CutomActionSheet.app/en.lproj/InfoPlist.strings CutomActionSheet/en.lproj/InfoPlist.strings
+cCompileStoryboard /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/CutomActionSheet/Base.lproj/Main.storyboard
+cCompileAssetCatalog /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Products/Debug-iphonesimulator/CutomActionSheet.app /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/CutomActionSheet/Images.xcassets
+cProcessInfoPlistFile /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Products/Debug-iphonesimulator/CutomActionSheet.app/Info.plist /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/CutomActionSheet/CutomActionSheet-Info.plist
+cGenerateDSYMFile /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Products/Debug-iphonesimulator/CutomActionSheet.app.dSYM /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Products/Debug-iphonesimulator/CutomActionSheet.app/CutomActionSheet
+cTouch /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Products/Debug-iphonesimulator/CutomActionSheet.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c00000000525642F10000000000000176
+t1381384945
+s374
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c0000000052C63DBA00000000000003B5
+t1388723642
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000052C63DC000000000000001A0
+t1388723648
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000052C63DC20000000000445870
+t1388723650
+s4479088
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000052C63DC4000000000088C680
+t1388723652
+s8963712
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000052C63DC80000000001DB9910
+t1388723656
+s31168784
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
+c0000000052C63DE90000000000000AC9
+t1388723689
+s2761
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Intermediates/CutomActionSheet.build/Debug-iphonesimulator/CutomActionSheet.build/Objects-normal/i386/AppDelegate.o
+t1394330693
+s65324
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Intermediates/CutomActionSheet.build/Debug-iphonesimulator/CutomActionSheet.build/Objects-normal/i386/CutomActionSheet.LinkFileList
+c00000000531BCC45000000000000022D
+t1394330693
+s557
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Intermediates/CutomActionSheet.build/Debug-iphonesimulator/CutomActionSheet.build/Objects-normal/i386/ViewController.o
+t1394330693
+s46436
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Intermediates/CutomActionSheet.build/Debug-iphonesimulator/CutomActionSheet.build/Objects-normal/i386/main.o
+t1394330693
+s3748
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Intermediates/CutomActionSheet.build/Debug-iphonesimulator/CutomActionSheet.build/assetcatalog_dependencies.txt
+t1394330694
+s488
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Intermediates/CutomActionSheet.build/Debug-iphonesimulator/CutomActionSheet.build/assetcatalog_generated_info.plist
+t1394330694
+s525
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Intermediates/PrecompiledHeaders/CutomActionSheet-Prefix-dkzoxcbweufypxduvzhxdfirypgx/CutomActionSheet-Prefix.pch.pch
+t1394330693
+s115080
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Products/Debug-iphonesimulator/CutomActionSheet.app
+t1394330695
+s306
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Products/Debug-iphonesimulator/CutomActionSheet.app.dSYM
+t2
+s0
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Products/Debug-iphonesimulator/CutomActionSheet.app/Base.lproj/Main.storyboardc
+t1394330695
+s170
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Products/Debug-iphonesimulator/CutomActionSheet.app/CutomActionSheet
+t1394330693
+s21712
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Products/Debug-iphonesimulator/CutomActionSheet.app/Info.plist
+t1394330695
+s1040
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Products/Debug-iphonesimulator/CutomActionSheet.app/PkgInfo
+t1394330695
+s8
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Products/Debug-iphonesimulator/CutomActionSheet.app/en.lproj/InfoPlist.strings
+t1394330693
+s42
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/CutomActionSheet/AppDelegate.m
+c00000000531BC4D400000000000007E0
+t1394328788
+s2016
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/CutomActionSheet/Base.lproj/Main.storyboard
+c00000000531BCC44000000000000117D
+t1394330692
+s4477
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/CutomActionSheet/CutomActionSheet-Info.plist
+c00000000531BC4D400000000000004C5
+t1394328788
+s1221
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/CutomActionSheet/CutomActionSheet-Prefix.pch
+c00000000531BC4D40000000000000158
+t1394328788
+s344
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/CutomActionSheet/Images.xcassets
+c00000000531BC4D40000000000000088
+t1394328788
+s136
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/CutomActionSheet/ViewController.m
+c00000000531BCC45000000000000029F
+t1394330693
+s671
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/CutomActionSheet/en.lproj/InfoPlist.strings
+c00000000531BC4D4000000000000002D
+t1394328788
+s45
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/CutomActionSheet/main.m
+c00000000531BC4D4000000000000015A
+t1394328788
+s346
+
+CBuild AST from /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/CutomActionSheet/AppDelegate.m
+r0
+
+CBuild AST from /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/CutomActionSheet/ViewController.m
+r0
+
+CBuild AST from /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/CutomActionSheet/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencieseb3b07c503ccb841^fd8211c503ccb841^---0#1#1#--18"Check dependencies36"40FA12B4-117A-4AA0-94DD-A9B1B6A393D2-
+
+CCompileAssetCatalog /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Products/Debug-iphonesimulator/CutomActionSheet.app /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/CutomActionSheet/Images.xcassets
+s416023493.433894
+e416023494.540491
+r1
+xCompileAssetCatalog
+x/Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Products/Debug-iphonesimulator/CutomActionSheet.app
+x/Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/CutomActionSheet/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Products/Debug-iphonesimulator/CutomActionSheet.app/LaunchImage-700-568h@2x.png
+o/Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Products/Debug-iphonesimulator/CutomActionSheet.app/Assets.car
+o/Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Intermediates/CutomActionSheet.build/Debug-iphonesimulator/CutomActionSheet.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"CompileAssetCatalog Build/Products/Debug-iphonesimulator/CutomActionSheet.app CutomActionSheet/Images.xcassets110"CompileAssetCatalog Build/Products/Debug-iphonesimulator/CutomActionSheet.app CutomActionSheet/Images.xcassets272e6fc503ccb841^f25d8ac603ccb841^-516"/* com.apple.actool.compilation-results *//Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Products/Debug-iphonesimulator/CutomActionSheet.app/LaunchImage-700-568h@2x.png/Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Products/Debug-iphonesimulator/CutomActionSheet.app/Assets.car/Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Intermediates/CutomActionSheet.build/Debug-iphonesimulator/CutomActionSheet.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@111"file:///Users/KentarOu/Desktop/Xcode_Project/2014_3%E6%9C%88/CutomActionSheet/CutomActionSheet/Images.xcassets/0000000000000000^1330"CompileAssetCatalog Build/Products/Debug-iphonesimulator/CutomActionSheet.app CutomActionSheet/Images.xcassets    cd /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Intermediates/CutomActionSheet.build/Debug-iphonesimulator/CutomActionSheet.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Intermediates/CutomActionSheet.build/Debug-iphonesimulator/CutomActionSheet.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.0 --target-device iphone --compress-pngs --compile /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Products/Debug-iphonesimulator/CutomActionSheet.app /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/CutomActionSheet/Images36"02700507-3569-4E09-9EE5-42C62085E55D-
+b48715A89-4B5C-4A44-BEC1-EF31DFC95763
+
+CCompileC Build/Intermediates/CutomActionSheet.build/Debug-iphonesimulator/CutomActionSheet.build/Objects-normal/i386/AppDelegate.o /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/CutomActionSheet/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416023493.220489
+e416023493.309114
+r1
+xCompileC
+xBuild/Intermediates/CutomActionSheet.build/Debug-iphonesimulator/CutomActionSheet.build/Objects-normal/i386/AppDelegate.o
+x/Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/CutomActionSheet/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/CutomActionSheet/AppDelegate.m
+d/Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/CutomActionSheet/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compile /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/CutomActionSheet/AppDelegate.m229"CompileC Build/Intermediates/CutomActionSheet.build/Debug-iphonesimulator/CutomActionSheet.build/Objects-normal/i386/AppDelegate.o CutomActionSheet/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler9f9138c503ccb841^c0224fc503ccb841^---0#0#1#-19%DVTDocumentLocation2@108"file:///Users/KentarOu/Desktop/Xcode_Project/2014_3%E6%9C%88/CutomActionSheet/CutomActionSheet/AppDelegate.m0000000000000000^4230"CompileC Build/Intermediates/CutomActionSheet.build/Debug-iphonesimulator/CutomActionSheet.build/Objects-normal/i386/AppDelegate.o CutomActionSheet/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/KentarOu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Intermediates/CutomActionSheet.build/Debug-iphonesimulator/CutomActionSheet.build/CutomActionSheet-generated-files.hmap -I/Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Intermediates/CutomActionSheet.build/Debug-iphonesimulator/CutomActionSheet.build/CutomActionSheet-own-target-headers.hmap -I/Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Intermediates/CutomActionSheet.build/Debug-iphonesimulator/CutomActionSheet.build/CutomActionSheet-all-target-headers.hmap -iquote /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Intermediates/CutomActionSheet.build/Debug-iphonesimulator/CutomActionSheet.build/CutomActionSheet-project-headers.hmap -I/Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Intermediates/CutomActionSheet.build/Debug-iphonesimulator/CutomActionSheet.build/DerivedSources/i386 -I/Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Intermediates/CutomActionSheet.build/Debug-iphonesimulator/CutomActionSheet.build/DerivedSources -F/Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Products/Debug-iphonesimulator -include /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Intermediates/PrecompiledHeaders/CutomActionSheet-Prefix-dkzoxcbweufypxduvzhxdfirypgx/CutomActionSheet-Prefix.pch -MMD -MT dependencies -MF /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Intermediates/CutomActionSheet.build/Debug-iphonesimulator/CutomActionSheet.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Intermediates/CutomActionSheet.build/Debug-iphonesimulator/CutomActionSheet.build/Objects-normal/i386/AppDelegate.dia -c /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/CutomActionSheet/AppDelegate.m -o /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Intermediates/CutomActionSheet.build/Debug-iphonesimulator/CutomActionSheet.build/Object36"03770EB1-9147-4834-A871-85849777071D-
+b48715A89-4B5C-4A44-BEC1-EF31DFC95763
+
+CCompileC Build/Intermediates/CutomActionSheet.build/Debug-iphonesimulator/CutomActionSheet.build/Objects-normal/i386/ViewController.o /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/CutomActionSheet/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416023493.220013
+e416023493.299928
+r1
+xCompileC
+xBuild/Intermediates/CutomActionSheet.build/Debug-iphonesimulator/CutomActionSheet.build/Objects-normal/i386/ViewController.o
+x/Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/CutomActionSheet/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/CutomActionSheet/ViewController.m
+d/Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/CutomActionSheet/ViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/CutomActionSheet/ViewController.m235"CompileC Build/Intermediates/CutomActionSheet.build/Debug-iphonesimulator/CutomActionSheet.build/Objects-normal/i386/ViewController.o CutomActionSheet/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerd57938c503ccb841^ebc94cc503ccb841^---0#0#1#-19%DVTDocumentLocation2@111"file:///Users/KentarOu/Desktop/Xcode_Project/2014_3%E6%9C%88/CutomActionSheet/CutomActionSheet/ViewController.m0000000000000000^4248"CompileC Build/Intermediates/CutomActionSheet.build/Debug-iphonesimulator/CutomActionSheet.build/Objects-normal/i386/ViewController.o CutomActionSheet/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/KentarOu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Intermediates/CutomActionSheet.build/Debug-iphonesimulator/CutomActionSheet.build/CutomActionSheet-generated-files.hmap -I/Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Intermediates/CutomActionSheet.build/Debug-iphonesimulator/CutomActionSheet.build/CutomActionSheet-own-target-headers.hmap -I/Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Intermediates/CutomActionSheet.build/Debug-iphonesimulator/CutomActionSheet.build/CutomActionSheet-all-target-headers.hmap -iquote /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Intermediates/CutomActionSheet.build/Debug-iphonesimulator/CutomActionSheet.build/CutomActionSheet-project-headers.hmap -I/Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Intermediates/CutomActionSheet.build/Debug-iphonesimulator/CutomActionSheet.build/DerivedSources/i386 -I/Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Intermediates/CutomActionSheet.build/Debug-iphonesimulator/CutomActionSheet.build/DerivedSources -F/Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Products/Debug-iphonesimulator -include /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Intermediates/PrecompiledHeaders/CutomActionSheet-Prefix-dkzoxcbweufypxduvzhxdfirypgx/CutomActionSheet-Prefix.pch -MMD -MT dependencies -MF /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Intermediates/CutomActionSheet.build/Debug-iphonesimulator/CutomActionSheet.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Intermediates/CutomActionSheet.build/Debug-iphonesimulator/CutomActionSheet.build/Objects-normal/i386/ViewController.dia -c /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/CutomActionSheet/ViewController.m -o /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Intermediates/CutomActionSheet.build/Debug-iphonesimulator/CutomActionSheet.build/Objects-n36"B091F295-6296-4CF7-AF91-9773CA9D8195-
+b48715A89-4B5C-4A44-BEC1-EF31DFC95763
+
+CCompileC Build/Intermediates/CutomActionSheet.build/Debug-iphonesimulator/CutomActionSheet.build/Objects-normal/i386/main.o /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/CutomActionSheet/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416023493.220968
+e416023493.263145
+r1
+xCompileC
+xBuild/Intermediates/CutomActionSheet.build/Debug-iphonesimulator/CutomActionSheet.build/Objects-normal/i386/main.o
+x/Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/CutomActionSheet/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/CutomActionSheet/main.m
+d/Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/CutomActionSheet/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/CutomActionSheet/main.m215"CompileC Build/Intermediates/CutomActionSheet.build/Debug-iphonesimulator/CutomActionSheet.build/Objects-normal/i386/main.o CutomActionSheet/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler62be38c503ccb841^0c7643c503ccb841^---0#0#1#-19%DVTDocumentLocation2@101"file:///Users/KentarOu/Desktop/Xcode_Project/2014_3%E6%9C%88/CutomActionSheet/CutomActionSheet/main.m0000000000000000^4188"CompileC Build/Intermediates/CutomActionSheet.build/Debug-iphonesimulator/CutomActionSheet.build/Objects-normal/i386/main.o CutomActionSheet/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/KentarOu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Intermediates/CutomActionSheet.build/Debug-iphonesimulator/CutomActionSheet.build/CutomActionSheet-generated-files.hmap -I/Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Intermediates/CutomActionSheet.build/Debug-iphonesimulator/CutomActionSheet.build/CutomActionSheet-own-target-headers.hmap -I/Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Intermediates/CutomActionSheet.build/Debug-iphonesimulator/CutomActionSheet.build/CutomActionSheet-all-target-headers.hmap -iquote /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Intermediates/CutomActionSheet.build/Debug-iphonesimulator/CutomActionSheet.build/CutomActionSheet-project-headers.hmap -I/Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Intermediates/CutomActionSheet.build/Debug-iphonesimulator/CutomActionSheet.build/DerivedSources/i386 -I/Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Intermediates/CutomActionSheet.build/Debug-iphonesimulator/CutomActionSheet.build/DerivedSources -F/Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Products/Debug-iphonesimulator -include /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Intermediates/PrecompiledHeaders/CutomActionSheet-Prefix-dkzoxcbweufypxduvzhxdfirypgx/CutomActionSheet-Prefix.pch -MMD -MT dependencies -MF /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Intermediates/CutomActionSheet.build/Debug-iphonesimulator/CutomActionSheet.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Intermediates/CutomActionSheet.build/Debug-iphonesimulator/CutomActionSheet.build/Objects-normal/i386/main.dia -c /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/CutomActionSheet/main.m -o /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Intermediates/CutomActionSheet.build/Debug-iphonesimulator/CutomActionSheet.build36"0A2DCBC2-1A8A-424D-A49F-11749170A114-
+b48715A89-4B5C-4A44-BEC1-EF31DFC95763
+
+CCompileStoryboard /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/CutomActionSheet/Base.lproj/Main.storyboard
+s416023493.432970
+e416023495.653533
+r1
+xCompileStoryboard
+x/Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/CutomActionSheet/Base.lproj/Main.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"CompileStoryboard CutomActionSheet/Base.lproj/Main.storyboard61"CompileStoryboard CutomActionSheet/Base.lproj/Main.storyboard75e66ec503ccb841^514ba7c703ccb841^---0#0#1#-19%DVTDocumentLocation2@121"file:///Users/KentarOu/Desktop/Xcode_Project/2014_3%E6%9C%88/CutomActionSheet/CutomActionSheet/Base.lproj/Main.storyboard0000000000000000^944"CompileStoryboard CutomActionSheet/Base.lproj/Main.storyboard    cd /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Products/Debug-iphonesimulator/CutomActionSheet.app/Base.lproj/Main.storyboardc /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/CutomActionSheet/Base.lproj/Main.storyboard36"7EA2E5C9-8D17-4966-B19D-30A071C7BF7E-
+b48715A89-4B5C-4A44-BEC1-EF31DFC95763
+
+CCopyStringsFile /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Products/Debug-iphonesimulator/CutomActionSheet.app/en.lproj/InfoPlist.strings CutomActionSheet/en.lproj/InfoPlist.strings
+s416023493.432694
+e416023493.434105
+r1
+xCopyStringsFile
+x/Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Products/Debug-iphonesimulator/CutomActionSheet.app/en.lproj/InfoPlist.strings
+xCutomActionSheet/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Copy CutomActionSheet/en.lproj/InfoPlist.strings144"CopyStringsFile Build/Products/Debug-iphonesimulator/CutomActionSheet.app/en.lproj/InfoPlist.strings CutomActionSheet/en.lproj/InfoPlist.stringsd3dc6ec503ccb841^36236fc503ccb841^---0#0#1#-19%DVTDocumentLocation2@121"file:///Users/KentarOu/Desktop/Xcode_Project/2014_3%E6%9C%88/CutomActionSheet/CutomActionSheet/en.lproj/InfoPlist.strings0000000000000000^681"CopyStringsFile Build/Products/Debug-iphonesimulator/CutomActionSheet.app/en.lproj/InfoPlist.strings CutomActionSheet/en.lproj/InfoPlist.strings    cd /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Products/Debug-iphonesimulator/CutomActionSheet.app/en.lproj -- CutomActionSheet/en.lproj/InfoPlist.strings36"FBDB2B47-0A45-4C29-BDB5-CD33E916FEF7-
+b48715A89-4B5C-4A44-BEC1-EF31DFC95763
+
+CGenerateDSYMFile /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Products/Debug-iphonesimulator/CutomActionSheet.app.dSYM /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Products/Debug-iphonesimulator/CutomActionSheet.app/CutomActionSheet
+s416023495.656581
+e416023495.675660
+r1
+xGenerateDSYMFile
+x/Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Products/Debug-iphonesimulator/CutomActionSheet.app.dSYM
+x/Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Products/Debug-iphonesimulator/CutomActionSheet.app/CutomActionSheet
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection136"Generate /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Products/Debug-iphonesimulator/CutomActionSheet.app.dSYM154"GenerateDSYMFile Build/Products/Debug-iphonesimulator/CutomActionSheet.app.dSYM Build/Products/Debug-iphonesimulator/CutomActionSheet.app/CutomActionSheet4223a8c703ccb841^f9f8acc703ccb841^---0#0#1#-19%DVTDocumentLocation2@140"file:///Users/KentarOu/Desktop/Xcode_Project/2014_3%E6%9C%88/CutomActionSheet/Build/Products/Debug-iphonesimulator/CutomActionSheet.app.dSYM0034d83cdfffdf42^793"GenerateDSYMFile Build/Products/Debug-iphonesimulator/CutomActionSheet.app.dSYM Build/Products/Debug-iphonesimulator/CutomActionSheet.app/CutomActionSheet    cd /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Products/Debug-iphonesimulator/CutomActionSheet.app/CutomActionSheet -o /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Products/Debug-iphonesimulator/CutomActionSheet.app.dSYM36"706B65E5-DE37-414F-960E-AD6005E23CE1-
+b48715A89-4B5C-4A44-BEC1-EF31DFC95763
+
+CLd /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Products/Debug-iphonesimulator/CutomActionSheet.app/CutomActionSheet normal i386
+s416023493.309837
+e416023493.431874
+r1
+xLd
+x/Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Products/Debug-iphonesimulator/CutomActionSheet.app/CutomActionSheet
+xnormal
+xi386
+d/Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Intermediates/CutomActionSheet.build/Debug-iphonesimulator/CutomActionSheet.build/Objects-normal/i386/CutomActionSheet.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+d/Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Intermediates/CutomActionSheet.build/Debug-iphonesimulator/CutomActionSheet.build/Objects-normal/i386/ViewController.o
+d/Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Intermediates/CutomActionSheet.build/Debug-iphonesimulator/CutomActionSheet.build/Objects-normal/i386/AppDelegate.o
+d/Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Intermediates/CutomActionSheet.build/Debug-iphonesimulator/CutomActionSheet.build/Objects-normal/i386/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libdyld.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection144"Link /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Products/Debug-iphonesimulator/CutomActionSheet.app/CutomActionSheet89"Ld Build/Products/Debug-iphonesimulator/CutomActionSheet.app/CutomActionSheet normal i38620624fc503ccb841^15906ec503ccb841^---0#0#1#--1623"Ld Build/Products/Debug-iphonesimulator/CutomActionSheet.app/CutomActionSheet normal i386    cd /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Products/Debug-iphonesimulator -F/Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Products/Debug-iphonesimulator -filelist /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Intermediates/CutomActionSheet.build/Debug-iphonesimulator/CutomActionSheet.build/Objects-normal/i386/CutomActionSheet.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Intermediates/CutomActionSheet.build/Debug-iphonesimulator/CutomActionSheet.build/Objects-normal/i386/CutomActionSheet_dependency_info.dat -o /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Products/Debug-iphonesimulator/CutomActionSheet.app/Cutom36"3F4A616D-BFFB-49AD-80E5-180684EAEDDE-
+b48715A89-4B5C-4A44-BEC1-EF31DFC95763
+
+CProcessInfoPlistFile /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Products/Debug-iphonesimulator/CutomActionSheet.app/Info.plist /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/CutomActionSheet/CutomActionSheet-Info.plist
+s416023495.654237
+e416023495.656072
+r1
+xProcessInfoPlistFile
+x/Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Products/Debug-iphonesimulator/CutomActionSheet.app/Info.plist
+x/Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/CutomActionSheet/CutomActionSheet-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Process /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/CutomActionSheet/CutomActionSheet-Info.plist134"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/CutomActionSheet.app/Info.plist CutomActionSheet/CutomActionSheet-Info.plist198ea7c703ccb841^fdf4a7c703ccb841^---0#0#1#-19%DVTDocumentLocation2@122"file:///Users/KentarOu/Desktop/Xcode_Project/2014_3%E6%9C%88/CutomActionSheet/CutomActionSheet/CutomActionSheet-Info.plist0000000000000000^1083"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/CutomActionSheet.app/Info.plist CutomActionSheet/CutomActionSheet-Info.plist    cd /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/CutomActionSheet/CutomActionSheet-Info.plist -genpkginfo /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Products/Debug-iphonesimulator/CutomActionSheet.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Intermediates/CutomActionSheet.build/Debug-iphonesimulator/CutomActionSheet.build/assetcatalog_generated_info.plist -o /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Products/Debug-iphonesimulator/CutomActionSheet.app/I36"C062F4ED-485F-4061-9ACE-D1B5F6419426-
+b48715A89-4B5C-4A44-BEC1-EF31DFC95763
+
+CProcessPCH /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Intermediates/PrecompiledHeaders/CutomActionSheet-Prefix-dkzoxcbweufypxduvzhxdfirypgx/CutomActionSheet-Prefix.pch.pch CutomActionSheet/CutomActionSheet-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416023493.069693
+e416023493.219245
+r1
+xProcessPCH
+x/Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Intermediates/PrecompiledHeaders/CutomActionSheet-Prefix-dkzoxcbweufypxduvzhxdfirypgx/CutomActionSheet-Prefix.pch.pch
+xCutomActionSheet/CutomActionSheet-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/CutomActionSheet/CutomActionSheet-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Precompile CutomActionSheet/CutomActionSheet-Prefix.pch247"ProcessPCH Build/Intermediates/PrecompiledHeaders/CutomActionSheet-Prefix-dkzoxcbweufypxduvzhxdfirypgx/CutomActionSheet-Prefix.pch.pch CutomActionSheet/CutomActionSheet-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler7bf911c503ccb841^001d3ac503ccb841^---0#0#1#-19%DVTDocumentLocation2@122"file:///Users/KentarOu/Desktop/Xcode_Project/2014_3%E6%9C%88/CutomActionSheet/CutomActionSheet/CutomActionSheet-Prefix.pch0000000000000000^4079"ProcessPCH Build/Intermediates/PrecompiledHeaders/CutomActionSheet-Prefix-dkzoxcbweufypxduvzhxdfirypgx/CutomActionSheet-Prefix.pch.pch CutomActionSheet/CutomActionSheet-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/KentarOu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Intermediates/CutomActionSheet.build/Debug-iphonesimulator/CutomActionSheet.build/CutomActionSheet-generated-files.hmap -I/Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Intermediates/CutomActionSheet.build/Debug-iphonesimulator/CutomActionSheet.build/CutomActionSheet-own-target-headers.hmap -I/Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Intermediates/CutomActionSheet.build/Debug-iphonesimulator/CutomActionSheet.build/CutomActionSheet-all-target-headers.hmap -iquote /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Intermediates/CutomActionSheet.build/Debug-iphonesimulator/CutomActionSheet.build/CutomActionSheet-project-headers.hmap -I/Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Intermediates/CutomActionSheet.build/Debug-iphonesimulator/CutomActionSheet.build/DerivedSources/i386 -I/Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Intermediates/CutomActionSheet.build/Debug-iphonesimulator/CutomActionSheet.build/DerivedSources -F/Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Intermediates/PrecompiledHeaders/CutomActionSheet-Prefix-dkzoxcbweufypxduvzhxdfirypgx/CutomActionSheet-Prefix.pch.dia -MMD -MT dependencies -MF /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Intermediates/PrecompiledHeaders/CutomActionSheet-Prefix-dkzoxcbweufypxduvzhxdfirypgx/CutomActionSheet-Prefix.pch.d -c /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/CutomActionSheet/CutomActionSheet-Prefix.pch -o /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Intermediates/PrecompiledHeaders/CutomActionSheet-Prefix-dkzoxcbweufypxduvzhxdfirypgx/CutomA36"5BD0147B-0BC8-4141-8169-5ACEC78266A9-
+b48715A89-4B5C-4A44-BEC1-EF31DFC95763
+
+CProcessPCH /Users/KentarOu/Library/Developer/Xcode/DerivedData/CutomActionSheet-dwhtxzrtdidavcbfuazorbrhldiz/Index/PrecompiledHeaders/CutomActionSheet-Prefix-gbopuzdeetpzjvbhfgtrbvtmsggs_ast/CutomActionSheet-Prefix.pch.pch CutomActionSheet/CutomActionSheet-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/KentarOu/Desktop/Xcode_Project/2014_3月/CutomActionSheet/Build/Products/Debug-iphonesimulator/CutomActionSheet.app
+r0
+
